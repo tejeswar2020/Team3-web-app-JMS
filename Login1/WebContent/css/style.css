@@ -1,0 +1,23 @@
+.box
+{
+	 border: 5px solid red;
+	 width: 500px;
+	 padding: 20px;
+	 margin: 50px auto 0 auto ;
+}
+
+body
+{
+	width: 1000px;
+	margin: 0 auto 0 auto;
+}
+
+input
+{
+	margin: 5px 0 5px 0;
+}
+
+.center
+{
+	text-align: center;
+}
