@@ -17,15 +17,11 @@ public class LoginForm extends HttpServlet {
 	protected void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {
 		System.out.println("hsfj");
-// new comments.
+// new coddddddddddddddddddddddddddmments.
 // testing for rebase.
-// testing
-// testing
 // my Branch comments and testing.
-// testing
-// testing
-// testing
 // new comments.
+// my Branch comments and testing.ddddddddddddddddddddddddddd
 		response.setContentType("text/html");
 		PrintWriter out = response.getWriter();
 		// request.getRequestDispatcher("header.html").include(request, response);
